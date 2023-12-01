@@ -1,13 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: About Alembic
+title: Campaign overview
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## The Egdysian Sphere is under siege...
+feature_image: "/images/planet2.jpg"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects.
+Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus Mechanicus and the forces of the Imperium spilling rebel blood to keep up production, sinister forces gather to intervene...
+
+## Recent skirmishes
+
+### Aetheric siege
+Belligerents: **The Sect of the Aetheric Conundrum** vs Hunter Cadre
+
+Mission: Breach Defenses (Octarius)
+
+### Hit and run
+Belligerents: **Star Mercs** vs The Forge of Days
+
+Mission: Search and Retrieve (Octarius)
+
+
