@@ -89,7 +89,7 @@ title: The Egdysian Campaign # Site name or title, also used in jekyll-seo-tag
 description: >- # this means to ignore newlines until "baseurl:"
   Keeping track of our Kill Team spec ops campaign.
 baseurl: "/spec-ops" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "abmichelsen.com" # the base hostname & protocol for your site, e.g. http://example.com
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
