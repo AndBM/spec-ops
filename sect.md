@@ -7,13 +7,13 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Umbrahex of the Destined End** - Sorcerer, 0 XP (Adept)
-* **Aethraxis of the Great Revelation** - Sorcerer, 0 XP (Adept)
-* **Vespertillian Cascade** - Gunner, 0 XP (Adept)
-* **Vortulon Nexus** - Icon bearer, 0 XP (Adept)
-* **Gorefist** - Tzaangor Champion, 0 XP (Adept)
+* **Umbrahex of the Destined End** - Sorcerer, 1 XP (Adept)
+* **Aethraxis of the Great Revelation** - Sorcerer, 1 XP (Adept)
+* **Vespertillian Cascade** - Gunner, 1 XP (Adept)
+* **Vortulon Nexus** - Icon bearer, 2 XP (Adept)
+* **Gorefist** - Tzaangor Champion, 3 XP (Adept)
 * **Veilstrike** - Tzaangor Fighter, 0 XP (Adept)
-* **Stormclaw** - Tzaangor Fighter, 0 XP (Adept)
+* **Stormclaw** - Tzaangor Fighter, 2 XP (Adept)
 * **Deathmaw** - Tzaangor Fighter, 0 XP (Adept)
 
 <br>
@@ -22,7 +22,7 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 The hidden and ever-shifting bastion known as the Chronomyst Spire
 
-{% include figure.html image="/images/warpspire.jpg" %}
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/warpspire.jpg?raw=true" %}
 
 * Tactical Uplink - the sect keeps up a constant telepathic link during skirmishes
 * Herdstone - one devoted beastman is chosen to be blessed by Tzeentch before battle
