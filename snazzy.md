@@ -1,9 +1,9 @@
 ---
 title: DA SNAZZY BOYZ!
-feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg"
+feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg?raw=true
 ---
 
-{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/kommando_header.jpg" %}
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/kommando_header.jpg?raw=true" %}
 
 ## Kill Team
 
