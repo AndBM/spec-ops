@@ -1,19 +1,9 @@
 ---
 title: Sect of the Aetheric Conundrum
-feature_image: "/images/banner_landscape.jpg"
+feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg"
 ---
 
-{% include figure.html image="/images/coven_header.jpg" %}
-
-## Base of Operations
-
-The hidden and ever-shifting bastion known as the Chronomyst Spire
-
-{% include figure.html image="/images/warpspire.jpg" %}
-
-* Tactical Uplink - the sect keeps up a constant telepathic link during skirmishes
-* Herdstone - one devoted beastman is chosen to be blessed by Tzeentch before battle
-* Equipment: High Capacity Rounds, Sorcerous Scroll, Gilded Horns x3
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/coven_header.jpg" %}
 
 ## Kill Team
 
@@ -27,6 +17,18 @@ The hidden and ever-shifting bastion known as the Chronomyst Spire
 * **Deathmaw** - Tzaangor Fighter, 0 XP (Adept)
 
 <br>
+
+## Base of Operations
+
+The hidden and ever-shifting bastion known as the Chronomyst Spire
+
+{% include figure.html image="/images/warpspire.jpg" %}
+
+* Tactical Uplink - the sect keeps up a constant telepathic link during skirmishes
+* Herdstone - one devoted beastman is chosen to be blessed by Tzeentch before battle
+* Equipment: High Capacity Rounds, Sorcerous Scroll, Gilded Horns x3
+
+
 
 ## Lore
 Lost in the mists of the unknown...

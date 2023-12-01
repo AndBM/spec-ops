@@ -1,9 +1,16 @@
 ---
 title: DA SNAZZY BOYZ!
-feature_image: "/images/banner_landscape.jpg"
+feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg"
 ---
 
-{% include figure.html image="/images/kommando_header.jpg" %}
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/kommando_header.jpg" %}
+
+## Kill Team
+
+* **Ork 1** - Lazy bum, 0 XP (Adept)
+* ...
+
+<br>
 
 ## Base of Operations
 
@@ -14,13 +21,6 @@ Da Red Orktober
 * Strategic Asset 1
 * Strategic Asset 2
 * Equipment: 
-
-## Kill Team
-
-* **Ork 1** - Lazy bum, 0 XP (Adept)
-* ...
-
-<br>
 
 ## Lore
 

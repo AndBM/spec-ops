@@ -2,7 +2,7 @@
 title: Campaign overview
 feature_text: |
   ## The Egdysian Sphere is under siege...
-feature_image: "/images/planet2.jpg"
+feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/planet2.jpg"
 ---
 
 Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus Mechanicus and the forces of the Imperium spilling rebel blood to keep up production, sinister forces gather to intervene...

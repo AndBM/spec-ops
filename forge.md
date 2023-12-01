@@ -1,9 +1,15 @@
 ---
 title: The Forge of Days
-feature_image: "/images/banner_landscape.jpg"
+feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg"
 ---
 
-{% include figure.html image="/images/blooded_header.jpg" %}
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/blooded_header.jpg" %}
+
+## Kill Team
+
+
+
+<br>
 
 ## Base of Operations
 
@@ -14,10 +20,6 @@ A liberated manufactorum.
 * Strategic Asset 1
 * Strategic Asset 2
 
-## Kill Team
 
-
-
-<br>
 
 ## Lore
