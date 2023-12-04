@@ -16,7 +16,7 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 Da Red Orktober
 
-{% include figure.html image="/images/red-orktober.jpg" %}
+{% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/red-orktober.jpg?raw=true" %}
 
 * Strategic Asset 1
 * Strategic Asset 2
