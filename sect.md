@@ -31,4 +31,22 @@ The hidden and ever-shifting bastion known as the Chronomyst Spire
 
 
 ## Lore
-Lost in the mists of the unknown...
+<div style="text-align: center"> Commence the Rite of Dialexis </div>
+
+The seed has taken well. Rebellion engulfs the planet.
+
+<div style="text-align: right"> The planet has not fallen. The front has frozen. </div>
+
+And yet, production falls by 7.5 fractions. The supply chain will falter in the hour of need of the CXVII'th Batallion of Threxis, locking them into meaningless fighting for several more decades.
+
+<div style="text-align: right"> Much blood has been shed for such vague ambitions. </div>
+
+The people fight for freedom. Their motivations are their own, we have but provided the means for their ends.
+
+<div style="text-align: right"> They know not the true nature of the cause for which they fight. </div>
+
+Who does, in the end?
+
+<div style="text-align: right"> In the end, who does? </div>
+
+<div style="text-align: center"> Synthesis: Maintain production sabotage of Forgeworld Egdysium. </div>
