@@ -7,8 +7,19 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Ork 1** - Lazy bum, 0 XP (Adept)
-* ...
+* **Urzog Drakka** - Nob, 6 XP (Staunch Veteran, Indomitable)
+* **Oglok Da' Shiv** - Slasha Boy, 2 XP (Adept)
+* **Grum Ironskull** - Breacha Boy, 2 XP (Adept)
+* **Snikrat Snotkicka** - Snipa Boy, 0 XP (Adept)
+* **Zarbag** - Dakka Boy, 0 XP (Adept)
+* **Grug 'old Madeye** - Comms Boy, 0 XP (Adept)
+* **Urlak Flame Spitta** - Burna Boy, 4 XP (Adept)
+* **Kraznag Wurldkilla** - Rokkit Boy, 2 XP (Adept)
+* **Zork da' mangler** - Boy, 3 XP (Adept)
+* **Muglock** - Boy, 0 XP (Adept)
+* **Zog'grit Knee' Cappa** - Grot, 0 XP (Adept)
+* **Dakka dog** - Bomb Squig, 0 XP (Adept)
+
 
 <br>
 
@@ -18,9 +29,12 @@ Da Red Orktober
 
 {% include figure.html image="https://github.com/AndBM/spec-ops/blob/main/images/red-orktober.jpg?raw=true" %}
 
-* Strategic Asset 1
-* Strategic Asset 2
-* Equipment: 
+* Loot Hoard
+* Tactical uplink
+
+Equipment: Rope x 2, dynamite, stikk bomb, choppa
+
+Spec op: Blitz [0/5]
 
 ## Lore
 

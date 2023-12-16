@@ -9,14 +9,23 @@ Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus
 
 ## Recent skirmishes
 
+### Slaughter in Tungsten Valley
+Belligerents: The Forge of Days vs **Da Snazzy Boyz**
+
+Mission: Ambush (Octarius)
+
+Da Boyz need more bombs for the Red Orktober. Their intelligence indicates that the Forge of Days recently recovered a fusion core, and are going to take it from them, or at least get a good fight out of it.
+
 ### Aetheric siege
-Belligerents: **The Sect of the Aetheric Conundrum** vs Hunter Cadre
+Belligerents: Hunter Cadre vs **Sect of the Aetheric Conundrum**
 
 Mission: Breach Defenses (Octarius)
 
-### Hit and run
-Belligerents: **Star Mercs** vs The Forge of Days
+Without the fusion device, the Forge has petitioned the Sect for help with overwhelming the Mechanicus stronghold. The Sect charges to breach the walls, but are met with an immediate counterattack by the Hunter Cadre.
+
+### Race for the bomb
+Belligerents: The Forge of Days vs **Star Mercs**
 
 Mission: Search and Retrieve (Octarius)
 
-
+A central fusion core of this district has been lost in the rubble. The Forge wants to convert it to an explosive strong enough to breach the nearby stronghold, but the Corsairs are trying to snatch it first, selling it on to the highest bidder.
