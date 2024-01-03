@@ -7,19 +7,22 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Sovereign** - Traitor chieftain, 0 XP (Adept)
+* **Sovereign** - Traitor chieftain, 1 XP (Adept)
 * **Davy Jones** - Traitor Ogryn, 6 XP (Staunch Veteran, Indomitable)
 * **Shock** - Traitor Gunner [Grenade Launcher], 2 XP (Adept)
-* **Ember** - Traitor Gunner [Plasma], 5 XP (Veteran Marksman, Gun Ace)
-* **Stone** - Traitor Brimstone Grenadier, 0 XP (Adept)
-* **Serpent** - Traitor Sharpshooter, 1 XP (Adept)
-* **Scutarius** - Traitor Trench Sweeper, 3 XP (Adept)
-* **Butcher** - Traitor Butcher, 0 XP (Adept)
-* **Salt** - Traitor Thug, 0 XP (Adept)
-* **Dr. "Morten" Warden** - Traitor Corpseman, 3 XP (Adept)
-* **Vox** - Traitor Commsman, 0 XP (Adept)
-* **Spike** - Traitor Trooper, 1 XP (Adept)
-* **Thorn** - Traitor Trooper, 0 XP (Adept)
+* **Ember** - Traitor Gunner [Plasma], 6 XP (Veteran Marksman, Gun Ace)
+* **Stone** - Traitor Brimstone Grenadier, 1 XP (Adept)
+* **Serpent** - Traitor Sharpshooter, 6 XP (Veteran, ???)
+* **Scutarius** - Traitor Trench Sweeper, 4 XP (Adept)
+* **Butcher** - Traitor Butcher, 1 XP (Adept)
+* **Salt** - Traitor Thug, 2 XP (Adept)
+* **Dr. "Morten" Warden** - Traitor Corpseman, 4 XP (Adept)
+* **Vox** - Traitor Commsman, 3 XP (Adept)
+* **Spike** - Traitor Trooper, 2 XP (Adept)
+* **Thorn** - Traitor Trooper, 1 XP (Adept)
+* **Cloak** - Traitor Trooper, 0 XP (Adept)
+* **Dagger** - Traitor Trooper, 1 XP (Adept)
+* **Pillar** - Traitor Trooper, 0 XP (Adept)
 
 
 <br>
@@ -35,7 +38,7 @@ A liberated manufactorum.
 
 Equipment: Sinister Trophy, Armour Plates x3, Wicked Blades [1]
 
-Spec Op: Draw the Gaze of the Gods [2/5]
+Spec Op: Draw the Gaze of the Gods [3/5]
 
 ## Lore
 
