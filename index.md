@@ -9,6 +9,20 @@ Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus
 
 ## Recent skirmishes
 
+### Corrupted energies
+Belligerents: **Sect of the Aetheric Conundrum** vs Da Snazzy Boyz
+
+Mission: Secure Junction (Crit Ops)
+
+As the Mechanics scramble to re-assert control over their supply lines, they abandon an energy junction critical to rebel operations. The Sect arrives to personally remove the Green Pest from this fateful junction.
+
+### Glorious stalemate
+Belligerents: Hunter Clade vs Da Snazzy Boyz
+
+Mission: Supply Drop (Octarius)
+
+Seeking the loot denied by the Forge, Da Snazzy Boyz make a grab for Mechanicus supplies.
+
 ### A vengeance forged in blood
 Belligerents: **The Forge of Days** vs Da Snazzy Boyz
 
@@ -24,11 +38,11 @@ Mission: Ambush (Octarius)
 Da Boyz need more bombs for Da Red Orktober. Their intelligence indicates that the Forge of Days recently recovered a fusion core, and are going to take it from them, or at least get a good fight out of it.
 
 ### Aetheric siege
-Belligerents: Hunter Cadre vs **Sect of the Aetheric Conundrum**
+Belligerents: Hunter Clade vs **Sect of the Aetheric Conundrum**
 
 Mission: Breach Defenses (Octarius)
 
-Without the fusion device, the Forge has petitioned the Sect for help with overwhelming the Mechanicus stronghold. The Sect charges to breach the walls, but are met with an immediate counterattack by the Hunter Cadre.
+Without the fusion device, the Forge has petitioned the Sect for help with overwhelming the Mechanicus stronghold. The Sect charges to breach the walls, but are met with an immediate counterattack by the Hunter Clade.
 
 ### Race for the bomb
 Belligerents: The Forge of Days vs **Star Mercs**

@@ -7,13 +7,14 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Umbrahex of the Destined End** - Sorcerer, 1 XP (Adept)
-* **Aethraxis of the Great Revelation** - Sorcerer, 1 XP (Adept)
-* **Vespertillian Cascade** - Gunner, 1 XP (Adept)
+* **Aethraxis of the Great Revelation** - Sorcerer, 4 XP (Adept)
+* **Umbrahex of the Destined End** - Sorcerer, 5 XP (Adept)
+* **Ptolemy of the Last Flame** - Sorcerer, 1 XP (Adept)
+* **Vespertillian Cascade** - Gunner, 2 XP (Adept)
 * **Vortulon Nexus** - Icon bearer, 2 XP (Adept)
 * **Gorefist** - Tzaangor Champion, 3 XP (Adept)
-* **Veilstrike** - Tzaangor Fighter, 0 XP (Adept)
-* **Stormclaw** - Tzaangor Fighter, 2 XP (Adept)
+* **Veilstrike** - Tzaangor Fighter, 3 XP (Adept)
+* **Stormclaw** - Tzaangor Fighter, 5 XP (Adept)
 * **Deathmaw** - Tzaangor Fighter, 0 XP (Adept)
 
 <br>

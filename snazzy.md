@@ -7,16 +7,16 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Urzog Drakka** - Nob, 6 XP (Staunch Veteran, Indomitable)
-* **Oglok Da' Shiv** - Slasha Boy, 6 XP (Staunch Veteran, Indomitable)
-* **Grum Ironskull** - Breacha Boy, 2 XP (Adept)
-* **Snikrat Snotkicka** - Snipa Boy, 1 XP (Adept)
-* **Zarbag** - Dakka Boy, 2 XP (Adept)
-* **Grug 'old Madeye** - Comms Boy, 0 XP (Adept)
+* **Urzog Drakka** - Nob, 7 XP (Staunch Veteran, Indomitable)
+* **Oglok Da' Shiv** - Slasha Boy, 8 XP (Staunch Veteran, Indomitable)
+* **Grum Ironskull** - Breacha Boy, 3 XP (Adept)
+* **Snikrat Snotkicka** - Snipa Boy, 9 XP (Veteran Marksman, Gun Ace)
+* **Mr. Dakka** - Dakka Boy, 6 XP (Scout Veteran, )
+* **Grug 'old Madeye** - Comms Boy, 3 XP (Adept)
 * **Urlak Flame Spitta** - Burna Boy, 5 XP (Adept)
-* **Kraznag Wurldkilla** - Rokkit Boy, 2 XP (Adept)
-* **Zork da' mangler** - Boy, 3 XP (Adept)
-* **Muglock** - Boy, 3 XP (Adept)
+* **Kraznag Wurldkilla** - Rokkit Boy, 4 XP (Adept)
+* **Zork da' mangler** - Boy, 5 XP (Adept)
+* **Muglock** - Boy, 4 XP (Adept)
 * **Zog'grit Knee' Cappa** - Grot, 0 XP (Adept)
 * **Dakka dog** - Bomb Squig, 0 XP (Adept)
 
@@ -32,9 +32,9 @@ Da Red Orktober
 * Loot Hoard
 * Tactical uplink
 
-Equipment: Rope x 2, dynamite, stikk bomb, choppa
+Equipment: Rope x 3, dynamite, stikk bomb, choppa, smoke bomb
 
-Spec op: Blitz [1/5]
+Spec op: Blitz [3/5]
 
 ## Lore
 
@@ -48,7 +48,7 @@ By testing and mutilated dozens of orks brains, Waznag accidentally managed to c
 
 When Waaagh Ogluk attacked the forge world of Egdyzian Da snazzy boyz was sent in advance, acting as vanguards, to soften the planetary defence, and pave the way for Ogluks invasion. 
 
-Descending with the fury of Gork and Mork, hundred of droppods made it planetfall, landing on several strategic locations...But there was a flaw in Waznag's visions. Being stuck in a pod for an hour, waiting for battle, can drive any ork mad. When that ork is also infested with a Squig gland, well, its not a pretty sight. 
+Descending with the fury of Gork and Mork, hundred of drop pods made it planetfall, landing on several strategic locations...But there was a flaw in Waznag's visions. Being stuck in a pod for an hour, waiting for battle, can drive any ork mad. When that ork is also infested with a Squig gland, well, its not a pretty sight. 
 
 Imagine the baffled mechanicus as they hastily approached the pods, preparing for an onslaught, only to find each pod filled with the blood and gore of its would-be assailants. 
 
