@@ -9,6 +9,13 @@ Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus
 
 ## Recent skirmishes
 
+### Raiders clash
+Belligerents: **The Forge of Days** vs Da Snazzy Boyz
+
+Mission: Loot Battlefield (Crit Ops)
+
+With the Egdysian heresy picking up momentum, weapons and ammo are needed for the fresh troops. Tasked with solving this issue, the Forge run into old enemies while picking over the remains of a recent clash, embers still smoldering in the ruins of arcane machinery. Smoke bombs and melta rays fly as both sides try out their new toys!
+
 ### Corrupted energies
 Belligerents: **Sect of the Aetheric Conundrum** vs Da Snazzy Boyz
 

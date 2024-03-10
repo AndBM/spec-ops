@@ -7,19 +7,20 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Sovereign** - Traitor chieftain, 1 XP (Adept)
+* **Sovereign** - Traitor chieftain, 6 XP (Staunch Veteran, Ardent on the Trigger)
 * **Davy Jones** - Traitor Ogryn, 6 XP (Staunch Veteran, Indomitable)
 * **Shock** - Traitor Gunner [Grenade Launcher], 2 XP (Adept)
-* **Ember** - Traitor Gunner [Plasma], 6 XP (Veteran Marksman, Gun Ace)
-* **Stone** - Traitor Brimstone Grenadier, 1 XP (Adept)
-* **Serpent** - Traitor Sharpshooter, 6 XP (Veteran, ???)
+* **Ember** - Traitor Gunner [Plasma], 7 XP (Veteran Marksman, Gun Ace)
+* **Lord Kelvin** - Traitor Gunner [Melta], 4 XP (Adept)
+* **Stone** - Traitor Brimstone Grenadier, 3 XP (Adept)
+* **Serpent** - Traitor Sharpshooter, 7 XP (Veteran Marksman, Gun Ace)
 * **Scutarius** - Traitor Trench Sweeper, 4 XP (Adept)
-* **Butcher** - Traitor Butcher, 1 XP (Adept)
-* **Salt** - Traitor Thug, 2 XP (Adept)
-* **Dr. "Morten" Warden** - Traitor Corpseman, 4 XP (Adept)
-* **Vox** - Traitor Commsman, 3 XP (Adept)
+* **Butcher** - Traitor Butcher, 2 XP (Adept)
+* **Salt** - Traitor Thug, 6 XP (Staunch Veteran, Resilient)
+* **Dr. "Morten" Warden** - Traitor Corpseman, 5 XP (Adept)
+* **Vox** - Traitor Commsman, 4 XP (Adept)
 * **Spike** - Traitor Trooper, 2 XP (Adept)
-* **Thorn** - Traitor Trooper, 1 XP (Adept)
+* **Thorn** - Traitor Trooper, 2 XP (Adept)
 * **Cloak** - Traitor Trooper, 0 XP (Adept)
 * **Dagger** - Traitor Trooper, 1 XP (Adept)
 * **Pillar** - Traitor Trooper, 0 XP (Adept)
@@ -36,9 +37,9 @@ A liberated manufactorum.
 * Unholy Altar - A gruesome work of craftsmanship dedicated to the Dark Gods
 * Defiled Trophies - The remains of slain enemies are carried into battle
 
-Equipment: Sinister Trophy, Armour Plates x3, Wicked Blades [1]
+Equipment: Sinister Trophy, Armour Plates x3, Wicked Blades [1], Beast pelt x5
 
-Spec Op: Draw the Gaze of the Gods [3/5]
+Spec Op: Draw the Gaze of the Gods [4/5]
 
 ## Lore
 

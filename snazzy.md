@@ -7,18 +7,18 @@ feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landsc
 
 ## Kill Team
 
-* **Urzog Drakka** - Nob, 7 XP (Staunch Veteran, Indomitable)
-* **Oglok Da' Shiv** - Slasha Boy, 8 XP (Staunch Veteran, Indomitable)
-* **Grum Ironskull** - Breacha Boy, 3 XP (Adept)
-* **Snikrat Snotkicka** - Snipa Boy, 9 XP (Veteran Marksman, Gun Ace)
-* **Mr. Dakka** - Dakka Boy, 6 XP (Scout Veteran, )
-* **Grug 'old Madeye** - Comms Boy, 3 XP (Adept)
+* **Urzog Drakka** - Nob, 9 XP (Staunch Veteran, Indomitable)
+* **Oglok Da' Shiv** - Slasha Boy, 9 XP (Staunch Veteran, Indomitable)
+* **Grum Ironskull** - Breacha Boy, 4 XP (Adept)
+* **Snikrat Snotkicka** - Snipa Boy, 11 XP (Veteran Marksman, Gun Ace)
+* **Mr. Dakka** - Dakka Boy, 6 XP (Scout Veteran, Swift)
+* **Grug 'old Madeye** - Comms Boy, 4 XP (Adept)
 * **Urlak Flame Spitta** - Burna Boy, 5 XP (Adept)
 * **Kraznag Wurldkilla** - Rokkit Boy, 4 XP (Adept)
-* **Zork da' mangler** - Boy, 5 XP (Adept)
+* **Zork da' mangler** - Boy, 7 XP (Veteran ???, Shifty)
 * **Muglock** - Boy, 4 XP (Adept)
-* **Zog'grit Knee' Cappa** - Grot, 0 XP (Adept)
-* **Dakka dog** - Bomb Squig, 0 XP (Adept)
+* **Zog'grit Knee' Cappa** - Grot, 1 XP (Adept) [Lingering ailment]
+* **Dakka dog** - Bomb Squig
 
 
 <br>
@@ -34,7 +34,7 @@ Da Red Orktober
 
 Equipment: Rope x 3, dynamite, stikk bomb, choppa, smoke bomb
 
-Spec op: Blitz [3/5]
+Spec op: Blitz [4/5]
 
 ## Lore
 
