@@ -1,5 +1,5 @@
 ---
-title: Hunter Cadre
+title: Hunter Clade
 feature_image: "https://github.com/AndBM/spec-ops/blob/main/images/banner_landscape.jpg?raw=true"
 ---
 

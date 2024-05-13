@@ -107,12 +107,10 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Campaign
   url: /
-- title: The Forge of Days
+- title: Forge of Days
   url: /forge/
-- title: Star Mercs
-  url: /mercs/
-- title: Hunter Cadre
-  url: /cadre/
+- title: Incessant Octagon
+  url: /incessant/
 - title: Sect of the Aetheric Conundrum
   url: /sect/
 - title: Da Snazzy Boyz

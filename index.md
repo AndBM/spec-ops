@@ -9,6 +9,20 @@ Forgeworld Egdysian has been engulfed in a heretical rebellion. With the Adeptus
 
 ## Recent skirmishes
 
+### A fine, green mist
+Belligerents: **The Incessant Octagon** vs Kommandos
+
+Mission: Capture Approach (Crit Ops)
+
+Performing a deep strike behind Ork lines, the redemption mission of the Incessant Octagon begins. The greenskin defenders are quickly cut to pieces as a storm of monomolecular shurikens sweep over their formation.
+
+### Ancient threat
+Belligerents: **The Forge of Days** vs Hierotek Circle
+
+Mission: Unknown
+
+The chaos cultists clash with a necron scouting squad with mysterious goals...
+
 ### Raiders clash
 Belligerents: **The Forge of Days** vs Da Snazzy Boyz
 
@@ -52,7 +66,7 @@ Mission: Breach Defenses (Octarius)
 Without the fusion device, the Forge has petitioned the Sect for help with overwhelming the Mechanicus stronghold. The Sect charges to breach the walls, but are met with an immediate counterattack by the Hunter Clade.
 
 ### Race for the bomb
-Belligerents: The Forge of Days vs **Star Mercs**
+Belligerents: The Forge of Days vs **Corsair Voidscarred**
 
 Mission: Search and Retrieve (Octarius)
 
